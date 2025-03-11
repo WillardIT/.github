@@ -25,7 +25,10 @@ Hardware Integration: Integration of custom hardware with existing systems.
 Contact
  
 Email: contact@willardit.com
+
 Phone: +1 (419) 964-6492
+
 Website: https://www.willardit.com
+
 LinkedIn: https://www.linkedin.com/company/willardit
 
